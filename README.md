@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 de Henry
+Este repositorio es una prueba de como crear un repositori y clonarlo desde mi git hub a mi computadora.
+Alan Arturo Segura Mejia
